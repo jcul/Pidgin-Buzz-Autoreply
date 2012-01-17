@@ -1,0 +1,31 @@
+Pidgin Plugin to automatically reply when some 'buzzes' you by sending an attention.
+
+-----------------------------------------------------------
+Installation
+-----------------------------------------------------------
+
+Linux
+
+To download the files run:
+    git clone git@github.com:jcul/Pidgin-Buzz-Autoreply.git
+
+Or download the files manually.
+
+Type
+    make
+to compile the plugin (you will need the pidgin development headers)
+
+To install to ~/.purple/plugins, type
+    make install
+
+
+Windows:
+
+Download the dll from the downloads section to %APPDATA%\.purple\plugins
+
+
+-----------------------------------------------------------
+Usage
+-----------------------------------------------------------
+
+Enable and set the auto respond message via the plugins menu
