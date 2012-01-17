@@ -4,7 +4,7 @@ Pidgin Plugin to automatically reply when some 'buzzes' you by sending an attent
 Installation
 -----------------------------------------------------------
 
-Linux
+Linux:
 
 To download the files run:
     git clone git@github.com:jcul/Pidgin-Buzz-Autoreply.git
